@@ -45,16 +45,16 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-None
+https://www.w3schools.com/js/js_random.asp
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-The most challenging part for me was to figure out how the random function works in JavaScript. Given that I coded in python before, I was very well acquinted with the random generator syntax used in Python and thus I tried using that 
+The most challenging part for me was figuring out how the random function works in JavaScript. Given that I coded in python before, I was very well acquainted with the random generator syntax used in Python and I implemented the very same syntax, however, I came across multiple errors. Instead of going to google directly, I tried to manipulate the syntax that I had by using the clue provided by CodePath. To understand the Math.random() function I tried to print the value I stored in a variable in an instance and then eventually gave into looking up the parameters and functionalities of the random value generator function. However, the most fun part was dynamically creating the pattern arrays with values within a range, it was 'OOH' moment when I learned how the ranges of values we want can be produced. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+After creating this interesting project on Glitch, I am very curious to learn how can we host them live without relying on different online platforms. But asides, I became more intrigued to learn about the true potential of web development. I was always fascinated with machine learning and AI, but after being exposed to a tiny proportion of web development through this project I am pondering if web development will ever cease to be a glam of the CS world. Moreover, I have more questions about how does a network work, suppose the internet with billions of web pages. 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+From the release of this application to the deadline, I believe the time was more than enough to implement a lot of things. If I had gotten to know sooner about this opportunity I would have experimented with this project and implemented more artsy and educational details. Given that I slightly bit interested in UI and always have a sharp eye for good design, I would have spent some time on creating a dynamic background with minimal contrast so that the button would be visible and maybe also worked on giving the buttons a 3D look. Moreover, I would work on adding the remaining additional features and also display the seconds remaining to guess the pattern correctly. 
 
 
 
@@ -65,7 +65,7 @@ The most challenging part for me was to figure out how the random function works
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright Tasnim Ahmed
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
