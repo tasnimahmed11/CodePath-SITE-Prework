@@ -60,7 +60,7 @@ From the release of this application to the deadline, I believe the time was mor
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://drive.google.com/file/d/1_TQRzNAcXsVkZBo1Iix5R0NQMM8_FX3f/view?usp=sharing)
 
 
 ## License
